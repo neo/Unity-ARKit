@@ -1,4 +1,4 @@
-Unity-ARKit-Plugin Step by Step
+## Unity-ARKit-Plugin Step by Step
 
 1. Read up on ARKit and how it works at a high level (https://developer.apple.com/documentation/arkit/understanding_augmented_reality).  This plugin provides the scripting API which corresponds to the ARKit native interface, and then builds on it by creating some GameObject components that use that interface.
 
